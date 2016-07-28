@@ -2,9 +2,6 @@
   <template name="rnn" value="java.util.Objects.requireNonNull($SELECTION$, &quot;$SELECTION$&quot;)" description="Surround with Objects.requireNonNull()" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
-      <option name="JAVA_EXPRESSION" value="true" />
-      <option name="COMPLETION" value="true" />
-      <option name="OTHER" value="false" />
     </context>
   </template>
 </templateSet>
