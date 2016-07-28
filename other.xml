@@ -1,26 +1,3 @@
 <application>
-  <component name="AppInspectionProfilesVisibleTreeState">
-    <entry key="Default">
-      <profile-state>
-        <expanded-state>
-          <State>
-            <id />
-          </State>
-        </expanded-state>
-        <selected-state>
-          <State>
-            <id>Ant inspections</id>
-          </State>
-        </selected-state>
-      </profile-state>
-    </entry>
-  </component>
-  <component name="RefactoringSettings">
-    <option name="MOVE_PREVIEW_USAGES" value="false" />
-    <option name="MOVE_INNER_PREVIEW_USAGES" value="false" />
-    <option name="TYPE_COOK_PRODUCE_WILDCARDS" value="true" />
-    <option name="INTRODUCE_FIELD_VISIBILITY" value="private" />
-    <option name="INTRODUCE_CONSTANT_VISIBILITY" value="public" />
-    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
-  </component>
+  <component name="ExceptionAnalyzerConfigurable" Sisyphus.DeveloperName="" Sisyphus.DefaultScope="1" Sisyphus.DefaultTeam="1" Sisyphus.HideMyIssuesHeaders="false" Sisyphus.HideAnalyzerHeaders="false" />
 </application>
